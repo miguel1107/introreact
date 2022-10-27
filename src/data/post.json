@@ -1,0 +1,36 @@
+
+{
+    "posts" : [
+    {
+        "image":"https://via.placeholder.com/150",
+        "createdAt": "3 min ago",
+        "text": "descripción 1",
+        "comments": 9,
+        "likes":0,
+        "autor":"@miguel"
+    },
+    {
+        "image":"https://via.placeholder.com/150",
+        "createdAt": "4 min ago",
+        "text": "descripción 2",
+        "comments": 10,
+        "likes":0,
+        "autor":"@guillermo"
+    },
+    {
+        "image":"https://via.placeholder.com/150",
+        "createdAt": "5 min ago",
+        "text": "descripción 3",
+        "comments": 11,
+        "likes":0,
+        "autor":"@erick"
+    },
+    {
+        "image":"https://via.placeholder.com/150",
+        "createdAt": "2 min ago",
+        "text": "descripción 4",
+        "comments": 12,
+        "likes":0,
+        "autor":"@yadira"
+    }
+]}
